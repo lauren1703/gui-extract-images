@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SplineSelectionModel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SplineSelectionModel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
